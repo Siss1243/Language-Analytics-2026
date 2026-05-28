@@ -1,0 +1,6 @@
+topic_id,top_words,n_word_pairs,coherence_npmi
+0,"people, think, know, gun, guy, say, obviously, post, good, conversation",44,0.07890308803900635
+1,"game, play, build, player, experience, run, hour, software, second, better",39,0.12811288963550815
+2,"business, make, company, price, buy, money, store, sell, pay, product",36,0.17492942212949952
+3,"work, school, book, read, job, start, student, feel, college, write",43,0.11016750964864859
+4,"phone, app, screen, break, car, card, buy, sell, free, run",24,0.182040697615934

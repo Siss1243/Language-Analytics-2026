@@ -1,0 +1,11 @@
+topic_id,top_words,n_word_pairs,coherence_npmi
+0,"people, think, say, know, doesn, conversation, talk, community, good, honestly",35,0.09188399756812747
+1,"game, play, build, player, experience, run, software, better, card, computer",40,0.16281940643522422
+2,"make, business, company, product, money, music, sell, people, market, work",40,0.12234809518262904
+3,"school, college, work, student, job, career, university, learn, class, degree",41,0.23115503026059522
+4,"phone, app, screen, break, sell, buy, card, free, use, account",27,0.20473159348398162
+5,"gun, quality, know, cheap, buy, stuff, thing, learn, maybe, post",43,0.07642341187152316
+6,"car, room, away, apartment, hit, night, fast, end, leave, house",39,0.15378489489660363
+7,"book, write, read, start, character, think, paper, thing, world, mind",40,0.12135735638074722
+8,"eat, weight, body, run, food, gain, try, wear, honestly, college",39,0.22468102170686985
+9,"price, buy, store, pay, brand, deal, money, watch, 200, online",33,0.20074634297940513

@@ -1,0 +1,7 @@
+pandas
+Numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+turftopic

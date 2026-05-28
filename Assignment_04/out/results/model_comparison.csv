@@ -1,0 +1,4 @@
+model,n_topics,avg_coherence_npmi,sd_coherence_npmi,min_coherence_npmi,max_coherence_npmi,avg_abs_label_difference,max_abs_label_difference,strongest_topic,strongest_story_minus_no_story
+keynmf_k5_stop0_samplefull_20260430_1319,5,0.1348,0.0436,0.0789,0.182,0.0104,0.0249,topic_4,0.0249
+keynmf_k10_stop0_samplefull_20260430_1308,10,0.159,0.0553,0.0764,0.2312,0.0105,0.0255,topic_6,0.0255
+keynmf_k15_stop0_samplefull_20260430_1321,15,0.1563,0.0559,0.0665,0.2452,0.008,0.0194,topic_6,0.0194

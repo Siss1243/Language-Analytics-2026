@@ -1,0 +1,16 @@
+topic_id,top_words,n_word_pairs,coherence_npmi
+0,"people, community, sub, honestly, new, life, know, money, tip, love",34,0.0664677408855207
+1,"game, play, build, experience, player, software, card, better, buy, honestly",40,0.15514152111209853
+2,"business, make, company, product, money, sell, market, idea, friend, food",37,0.15025118533842063
+3,"job, work, college, school, career, university, student, degree, experience, learn",42,0.2294700753588081
+4,"phone, app, screen, break, sell, buy, free, card, use, account",27,0.20473159348398168
+5,"gun, quality, cheap, know, buy, stuff, learn, thing, maybe, post",43,0.07642341187152318
+6,"car, hit, away, drive, end, turn, story, way, hold, fun",39,0.10988511875190732
+7,"book, read, start, paper, character, mind, thing, think, future, surprise",35,0.14267686181906597
+8,"conversation, watch, talk, event, discussion, night, fight, say, thread, reddit",37,0.24524452973909122
+9,"price, buy, store, pay, brand, deal, watch, money, online, 200",33,0.20074634297940508
+10,"think, understand, class, feel, social, woman, come, drop, article, support",33,0.09656840757123876
+11,"apartment, live, house, room, life, place, look, area, leave, home",42,0.13490097809417995
+12,"eat, weight, body, run, food, gain, try, honestly, wear, college",39,0.22468102170686982
+13,"hour, second, speed, fast, minute, time, slow, night, light, run",34,0.17111113934901828
+14,"write, music, make, think, event, sound, book, simple, character, place",30,0.13547749928454333
