@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+spacy
+tqdm
+seaborn
+kagglehub[pandas-datasets]
+nltk
+spacy
+statsmodels
+
+
+#python -m spacy download en_core_web_sm
+#python -m nltk.downloader stopwords
