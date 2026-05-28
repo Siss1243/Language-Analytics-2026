@@ -1,0 +1,3 @@
+,n_texts,avg_length,std_length,total_tokens,total_types,mean_TTR,std_TTR,mean_func_words,std_func_words,avg_sentence_length,std_sentence_length
+APHORISM,480.0,142.84,47.39,68564.0,9008.0,0.68,0.06,50.63,3.78,28.57,18.2
+LITSTUDY,484.0,129.86,47.91,62853.0,10570.0,0.69,0.08,46.71,6.73,25.98,16.27
